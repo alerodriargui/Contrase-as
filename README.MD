@@ -1,0 +1,1 @@
+El programa, solicita el link de la página web y el nombre de usuario y genera una contraseña totalmente aleatoria, definiendo la longitud de caracteres. Todo ello, es guardado en un fichero de texto.
